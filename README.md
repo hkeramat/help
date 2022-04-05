@@ -3,7 +3,7 @@
 nvidia-smi
 ```
 
-#### To check cuda version
+#### To check CUDA version
 ```
 nvcc --version
 ```
